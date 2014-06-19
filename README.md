@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-SecureCompare.compare(secret_token, what_they_sent)
+    SecureCompare.compare(secret_token, what_they_sent)
 
 
 ## Tests
